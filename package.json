@@ -1,0 +1,23 @@
+{
+  "name": "tuing_balaba",
+  "version": "0.0.1",
+  "description": "Main engine for tuing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrumengan/tuing_balaba.git"
+  },
+  "keywords": [
+    "tuing",
+    "balaba"
+  ],
+  "author": "Mason Rumengan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrumengan/tuing_balaba/issues"
+  },
+  "homepage": "https://github.com/mrumengan/tuing_balaba#readme"
+}
